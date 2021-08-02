@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;200;300&display=swap');
+
+body{
+    overflow: hidden;
+}
+
+.bg-rennan{
+    background: linear-gradient(to right, #4a69bd,#0c2461);
+    height: 100vh;
+}
+
+.mt-n4{
+    margin-top: -1rem;
+}
+.personal-family{
+    font-family: 'Roboto Mono', monospace;
+}
