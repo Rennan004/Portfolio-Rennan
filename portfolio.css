@@ -20,7 +20,7 @@ body{
     justify-items: center;
 }
 #content{
-    margin-top: 20% !important;
+    margin-top: 10% !important;
 }
 @media (max-width: 575.98px){
     #content{
