@@ -6,7 +6,11 @@
     $('a').click(function(e){
       e.preventDefault()
 
-        $('#modal-info').modal('show')
+    //Criar uma variavel local que receba o atributo href do link
+    let page = $(this).attr('href')
+
+    alert(page)
+
     })
 
  })
