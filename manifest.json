@@ -1,10 +1,10 @@
 {
-  "name": "PWA",
-  "short_name": "PWA",
+  "name": "Eclipse",
+  "short_name": "Eclipse",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "Primeiro PWA.",
+  "description": "Meu Portfolio.",
   "icons": [{
     "src": "./pwa/eclipse48.png",
     "sizes": "48x48",
